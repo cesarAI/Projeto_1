@@ -1,0 +1,9 @@
+Recomendação: 
+
+1. **Acionar setor Anti-Fraude** - Em virtude da transação identificada como possível fraude, é importante que o setor Anti-Fraude seja acionado para suas devidas diligências, como investigação aprofundada e verificações adicionais.
+
+2. **Realizar Verificação Manual** - Paralelamente à ativação do setor Anti-Fraude, uma vez que existem diversos fatores suspeitos, recomenda-se uma verificação manual da transação. Isso pode compreender a revisão minuciosa dos padrões de comportamento de compra do cliente, o valor da transação em relação à média das transações realizadas e o padrão da loja em relação às transações típicas.
+
+3. **Notificar Cliente** - Como um último passo, sugiro que o cliente seja notificado em relação à suspeita de fraude. Isso será útil para que o cliente possa também verificar de sua parte, se a transação foi executada por ele ou se seu cartão pode ter sido comprometido.
+
+Classificação do tipo de fraude: **Fraude de Cartão de Crédito** - Esta classificação é baseada no fato de que a transação foi feita com um cartão de crédito e os indicadores levantados sugerem que ela pode ser fraudulenta. A fraude de cartão de crédito é um dos tipos de fraude mais comuns e se refere a situações em que o cartão de crédito é utilizado sem o consentimento do titular.
